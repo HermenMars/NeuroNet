@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/hurmpel/Projects/NeuralNetwork/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

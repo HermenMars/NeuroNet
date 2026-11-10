@@ -1,0 +1,3 @@
+/home/hurmpel/Projects/NeuralNetwork/build/CMakeFiles/neural_network.dir
+/home/hurmpel/Projects/NeuralNetwork/build/CMakeFiles/edit_cache.dir
+/home/hurmpel/Projects/NeuralNetwork/build/CMakeFiles/rebuild_cache.dir
